@@ -1,0 +1,15 @@
+# jemdoc: menu{MENU}{papers.html}
+= Publications and preprints
+
+\* means equal contribution.
+
+== Preprints
+- /NGM: Neural Gaussian mirror for controlled feature selection in neural networks/. Xing Xin\*, *Yu Gui*\*, Chenguang Dai, Jun S Liu
+
+== Publications
+- TBD
+
+== Manuscripts
+- /A review on Knockoffs filter and extension to measurement error models/. *Yu Gui*
+- /ADAGES: adaptive aggregation for distributed feature selection/. *Yu Gui*
+- /RP-based knockoffs with dual mapping/. *Yu Gui*
