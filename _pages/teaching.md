@@ -28,6 +28,7 @@ nav_order: 2
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">Autumn 2023: Teaching Assistant</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Course page: <a href="https://rinafb.github.io/teaching/27850_Autumn2023_syllabus.pdf" target="_blank">Syllabus</a></h6>
   </div>
 </div>
 
