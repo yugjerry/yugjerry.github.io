@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: * equal contribution or alphabetical ordering.
+description:
 nav: true
 nav_order: 1
 ---
@@ -12,4 +12,5 @@ nav_order: 1
 
 {% bibliography %}
 
+(underline stands for alphabetical ordering or equal contribution)
 </div>
