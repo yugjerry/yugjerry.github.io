@@ -1,9 +1,8 @@
 ---
 layout: post
-date: 2024-05-16
+date: 2015-10-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-
-New preprint on how to deploy foundation models with statistical guarantees: [Conformal Alignment](https://arxiv.org/abs/2405.10301).
+A simple inline announcement.
