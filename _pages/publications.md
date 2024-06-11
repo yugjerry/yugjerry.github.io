@@ -12,6 +12,6 @@ nav_order: 1
 
 {% bibliography %}
 
-\* = alphabetical ordering or equal contribution
+* = alphabetical ordering or equal contribution
 
 </div>
