@@ -295,7 +295,7 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Gui]
+  last_name: [Gui*]
   first_name: [Yu]
 
   style: apa
