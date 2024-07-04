@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-05-16
+date: 2023-03-30
 inline: true
 related_posts: false
 ---
 
-A new preprint on when to deploy foundation models with statistical guarantees: [Conformal Alignment](https://arxiv.org/abs/2405.10301).
+I'm thrilled to be awarded the [William Rainey Harper Dissertation Fellowship](https://stat.uchicago.edu/news/article/yu-gui-awarded-harper-dissertation-fellowship/) for 2024-25.
