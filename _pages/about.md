@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in the Department of Statistics at the University of Chicago. I am fortunate to be advised by Professor [Rina Foygel Barber](https://rinafb.github.io/) and Professor [Cong Ma](https://congma1028.github.io/).
+I am a PhD candidate in the Department of Statistics at the University of Chicago. I am fortunate to be advised by Professor [Rina Foygel Barber](https://rinafb.github.io/) and Professor [Cong Ma](https://congma1028.github.io/).
 
 My research broadly focuses on theory and methodology in scenarios where the distribution is weakly specified or fully supervised data is unavailable.
 
