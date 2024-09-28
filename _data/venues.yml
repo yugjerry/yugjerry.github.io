@@ -1,9 +1,11 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Distribution shift":
+  color: "#5ac13a"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"Selective inference":
+  color: "#3aa6c1"
 
-"Vision":
-  color: "#009f36"
+"ML theory":
+  color: "#e2aa39"
+
+"Uncertainty quantification":
+  color: "#c139e2"
