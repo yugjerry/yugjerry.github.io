@@ -12,19 +12,19 @@ nav_order: 3
 
 - 2024 Hangzhou International Conference on Frontiers of Data Science. Hangzhou, China. July 2024.
 
-##### Conformal alignment: selective deployment of foundation models with statistical guarantees [poster](../assets/pdf/conf_alignment_poster.pdf) 
+##### Conformal alignment: selective deployment of foundation models with statistical guarantees [(poster)](../assets/pdf/conf_alignment_poster.pdf) 
 
 - The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024) (poster). Vancouver. Dec 2024.
 
 - Statistical Foundations of LLMs and Foundation Models (poster). Vancouver. Dec 2024.
 
-##### Unraveling projection heads in contrastive learning: insights from expansion and shrinkage [poster](../assets/pdf/ssl_poster.pdf) 
+##### Unraveling projection heads in contrastive learning: insights from expansion and shrinkage [(poster)](../assets/pdf/ssl_poster.pdf) 
 
 - 2024 IMS International Conference on Statistics and Data Science. Nice, France. Dec 2024.
 
 - Statistical Foundations of Data Science and their Applications: A conference in celebration of Jianqing Fan's 60th Birthday (poster). Princeton, NJ. May 2023.
 
-##### Conformalized matrix completion [poster](../assets/pdf/cmc_neurips_poster.pdf) 
+##### Conformalized matrix completion [(poster)](../assets/pdf/cmc_neurips_poster.pdf) 
 
 - The 7th International Conference on Econometrics and Statistics. Beijing, China. July 2024.
 
