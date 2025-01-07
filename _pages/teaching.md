@@ -13,6 +13,17 @@ nav_order: 2
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
+        <h5 class="font-weight-bold">STAT 33910/FINM 33170: Financial Statistics: Time-Series, Forecasting, Mean Reversion, and High Frequency Data</h5>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Winter 2025: Teaching Assistant</h6>
+  </div>
+</div>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
         <h5 class="font-weight-bold">STAT 22200: Linear Models and Experimental Design</h5>
       </div>
     </div>
