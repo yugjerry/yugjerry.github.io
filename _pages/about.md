@@ -19,4 +19,4 @@ I am a PhD candidate in the Department of Statistics at the University of Chicag
 
 My research broadly focuses on theory and methodology in scenarios where the distribution is weakly specified or fully supervised data is unavailable.
 
-Prior to PhD, I graduated from School of the Gifted Young at University of Science and Technology of China and was a student research intern advised by Professor [Jun S Liu](https://sites.harvard.edu/junliu/) at Harvard.
+Prior to PhD, I graduated from [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at University of Science and Technology of China and was a student research intern advised by Professor [Jun S Liu](https://sites.harvard.edu/junliu/) at Harvard.
