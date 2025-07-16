@@ -12,6 +12,10 @@ nav_order: 3
 
 - 2024 International Conference on Frontiers of Data Science. Hangzhou, China. July 2024.
 
+- The 3rd Joint Conference on Statistics and Data Science in China (2025 JCSDS). July 2025.
+
+- 13th International Conference on Multiple Comparison Procedures (MCP–2025). Philadelphia, PA. Scheduled Aug 2025.
+
 ---
 
 ##### Conformal alignment: selective deployment of foundation models with statistical guarantees [(poster)](../assets/pdf/conf_alignment_poster.pdf) 
