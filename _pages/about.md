@@ -8,9 +8,10 @@ profile:
   align: right
   image: yugui.jpg
   image_circular: false # crops the image to make it circular
-  more_info: > 
-    [email](mailto:yugui@wharton.upenn.edu)
-    [google scholar](https://scholar.google.com/citations?hl=en&user=22zXYlkAAAAJ&view_op=list_works&sortby=pubdate) 
+  more_info:
+  # more_info: > 
+  #   [email](mailto:yugui@wharton.upenn.edu)
+  #   [google scholar](https://scholar.google.com/citations?hl=en&user=22zXYlkAAAAJ&view_op=list_works&sortby=pubdate) 
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
