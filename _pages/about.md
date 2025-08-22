@@ -30,7 +30,9 @@ My research broadly focuses on theory and methodology in scenarios where the dis
 I am particularly interested in statistical inference with adaptively collected data, distribution-free inference under distribution shifts, and learning with multi-modal data.
 
 
-## Research Interests
+---
+
+## research interests
 
 - **Distribution-free inference**  
   
@@ -46,7 +48,8 @@ I am particularly interested in statistical inference with adaptively collected 
 
 - **Observational studies**  
   
-  Efficient statistical methods for identifying causal relationships in complex real-world settings.   
+  Efficient statistical methods for identifying cause-and-effect relationships in complex real-world settings.   
 
+---
 
 
