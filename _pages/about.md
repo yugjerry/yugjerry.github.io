@@ -35,19 +35,15 @@ I am particularly interested in statistical inference with adaptively collected 
 ## research interests
 
 - **Distribution-free inference**  
-  
   Uncertainty quantification for black-box models, including reliable deployment of foundation model outputs with statistical guarantees ([GJR24](https://arxiv.org/abs/2405.10301), [GJNR25](https://arxiv.org/abs/2507.15825)).  
 
 - **Selective inference under distribution shift**  
-  
   Valid inferential procedures in the presence of selection bias, distribution shift, missingness, and censoring ([GBM23](https://arxiv.org/abs/2305.10637), [GBM24](https://arxiv.org/abs/2407.06867), [GHRB24](https://arxiv.org/abs/2211.01227)).  
 
 - **Statistical learning with multi-modal data**  
-  
   Theoretical foundations for modern (self-supervised) representation learning techniques ([GMM25](https://arxiv.org/abs/2505.12473), [GMZ23](https://arxiv.org/abs/2306.03335)).  
 
 - **Observational studies**  
-  
   Efficient statistical methods for identifying cause-and-effect relationships in complex real-world settings.   
 
 ---
