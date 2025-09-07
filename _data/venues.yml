@@ -1,14 +1,14 @@
 "Distribution shift":
-  color: "#5ac13a"
+  color: "#ebbab9"
 
 "Selective inference":
-  color: "#3aa6c1"
+  color: "#f5cb5c"
 
 "ML theory":
-  color: "#e2aa39"
+  color: "#e0fbfc"
 
 "UQ":
-  color: "#c139e2"
+  color: "#d3e0cc"
 
 "Statistical Inference":
   color: "#5ac13a"

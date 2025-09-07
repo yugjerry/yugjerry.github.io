@@ -8,13 +8,13 @@ nav_order: 3
 ---
 
 
-##### Distributionally robust risk evaluation with an isotonic constraint
+##### Distributionally robust risk evaluation with an isotonic constraint [(slides)](../assets/pdf/iso_drl_slides_full.pdf) 
 
 - 2024 International Conference on Frontiers of Data Science. Hangzhou, China. July 2024.
 
 - The 3rd Joint Conference on Statistics and Data Science in China (2025 JCSDS). July 2025.
 
-- 13th International Conference on Multiple Comparison Procedures (MCP–2025). Philadelphia, PA. Scheduled Aug 2025.
+- 13th International Conference on Multiple Comparison Procedures (MCP–2025). Philadelphia, PA. Aug 2025.
 
 ---
 
