@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-03-30
+date: 2025-09-17
 inline: true
 related_posts: false
 ---
 
-Received [IMS Hannan graduate student award](https://imstat.org/2023/04/22/2023-hannan-graduate-student-travel-award-recipients-announced/) for our work on theory of [contrastive learning](https://arxiv.org/abs/2306.03335).
+I'm honored to be awarded the [IMS Lawrence D. Brown Ph.D. Student Award](https://imstat.org/ims-awards/ims-lawrence-d-brown-ph-d-student-award/)! 

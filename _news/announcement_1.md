@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'm thrilled to be awarded the [William Rainey Harper Dissertation Fellowship](https://stat.uchicago.edu/news/article/yu-gui-awarded-harper-dissertation-fellowship/)!
+I'm happy to be awarded the [William Rainey Harper Dissertation Fellowship](https://stat.uchicago.edu/news/article/yu-gui-awarded-harper-dissertation-fellowship/)!
