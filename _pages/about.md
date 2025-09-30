@@ -41,7 +41,7 @@ I am particularly interested in statistical inference with adaptively collected 
   Valid inferential procedures in the presence of selection bias, distribution shift, missingness, and censoring ([GBM23](https://arxiv.org/abs/2305.10637), [GBM24](https://arxiv.org/abs/2407.06867), [GHRB24](https://arxiv.org/abs/2211.01227)).  
 
 - **Statistical learning with multi-modal data**  
-  Theoretical foundations for modern (self-supervised) representation learning techniques ([GMM25](https://arxiv.org/abs/2505.12473), [GMZ23](https://arxiv.org/abs/2306.03335)).  
+  Theoretical foundations of modern (self-supervised) representation learning techniques ([GMM25](https://arxiv.org/abs/2505.12473), [GMZ23](https://arxiv.org/abs/2306.03335)) and efficient methods for disentangling shared and modality-specific features ([GMM25](https://www.arxiv.org/abs/2509.21584)).  
 
 - **Observational studies**  
   Efficient statistical methods for identifying cause-and-effect relationships in complex real-world settings.   
