@@ -10,11 +10,14 @@ nav_order: 3
 
 ##### Distributionally robust risk evaluation with an isotonic constraint [(slides)](../assets/pdf/iso_drl_slides_full.pdf) 
 
-- 2024 International Conference on Frontiers of Data Science. Hangzhou, China. July 2024.
+- IMS Annual Meeting 2026. Salzburg, Austria. Scheduled July 2026.
+
+- 13th International Conference on Multiple Comparison Procedures (MCP–2025). Philadelphia, PA. Aug 2025.
 
 - The 3rd Joint Conference on Statistics and Data Science in China (2025 JCSDS). July 2025.
 
-- 13th International Conference on Multiple Comparison Procedures (MCP–2025). Philadelphia, PA. Aug 2025.
+- 2024 International Conference on Frontiers of Data Science. Hangzhou, China. July 2024.
+
 
 ---
 
@@ -50,7 +53,6 @@ nav_order: 3
 
 - ICML Workshop on Distribution-free Uncertainty Quantification (DFUQ) 2022, Virtual. July 2022, joint with Rohan Hore.
 
-- Student seminar, Department of Statistics, University of Chicago. May 2022.
 
 ---
 
