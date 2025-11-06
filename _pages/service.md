@@ -8,29 +8,35 @@ nav_order: 4
 ---
 
 
-##### journal referee
+##### Journal reviewer
 
 Annals of Statistics, Journal of the American Statistical Association, Operations Research, Journal of Computational and Graphical Statistics, IEEE Transactions on Information Theory, Transactions on Machine Learning Research, Electronic Journal of Statistics, Statistica Sinica
 
+---
 
-##### conference reviewer
+##### Conference reviewer
 
 NeurIPS, ICML, ICLR, AISTATS, AAAI
 
 
-##### invited discussion
+---
+
+##### Invited discussion
 
 - Discussion of ``Multiple Testing of Linear Forms for Noisy Matrix Completion'' by Wanteng Ma. *International Seminar on Selective Inference*. Apr 2024.
 
 
-##### mentorship
+---
+
+##### Mentorship
 
 - University of Chicago International Allies Program
 
 - Physical Sciences Division Peer Mentorship Program
 
+---
 
-##### consulting
+##### Consulting
 
 University of Chicago Statistics Consulting Program. *Winner of the Consulting Cup, 2022*
 
