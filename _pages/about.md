@@ -26,8 +26,7 @@ I obtained my PhD in Statistics at the University of Chicago, where I was fortun
 
 Prior to my PhD, I graduated from [School of the Gifted Young](https://en.scgy.ustc.edu.cn/main.htm) at University of Science and Technology of China and was a student research intern advised by Professor [Jun S Liu](https://sites.harvard.edu/junliu/) at Harvard.
 
-My research broadly focuses on theory and methodology in scenarios where the distribution is weakly specified or fully supervised data are unavailable.
-I am particularly interested in statistical inference with adaptively collected data, distribution-free inference under distribution shifts, and learning with multi-modal data.
+I am broadly interested in statistical theory and methodology in scenarios where the distribution is weakly specified or fully supervised data are unavailable, motivated by problems that both arise from and can further inform real-world applications.
 
 
 ---
