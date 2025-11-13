@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 
-##### Distributionally robust risk evaluation with an isotonic constraint [(slides)](../assets/pdf/iso_drl_slides_full.pdf) 
+##### Distributionally robust risk evaluation with an isotonic constraint 
 
 - IMS Annual Meeting 2026. Salzburg, Austria. Scheduled July 2026.
 
