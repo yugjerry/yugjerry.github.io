@@ -18,6 +18,11 @@ nav_order: 3
 
 - 2024 International Conference on Frontiers of Data Science. Hangzhou, China. July 2024.
 
+---
+
+##### Multi-modal contrastive learning adapts to intrinsic dimensions of shared latent variables [(poster)](../assets/pdf/clip_poster.pdf)
+
+- The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025) (poster). San Diego. Dec 2025.
 
 ---
 
