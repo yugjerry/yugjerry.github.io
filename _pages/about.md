@@ -43,7 +43,7 @@ I am broadly interested in statistical theory and methodology in scenarios where
   Theoretical foundations of modern (self-supervised) representation learning techniques ([GMM25](https://arxiv.org/abs/2505.12473), [GMZ23](https://arxiv.org/abs/2306.03335)) and efficient methods for disentangling shared and modality-specific features ([GMM25](https://www.arxiv.org/abs/2509.21584)).  
 
 - **Observational studies**  
-  Efficient statistical methods for identifying cause-and-effect relationships in complex real-world settings.   
+  Efficient and valid statistical methods for identifying cause-and-effect relationships in complex real-world settings, addressing challenges of heterogeneity, unmeasured confounding, multiplicity, and selection bias.   
 
 ---
 
