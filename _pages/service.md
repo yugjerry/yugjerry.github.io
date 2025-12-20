@@ -10,7 +10,7 @@ nav_order: 4
 
 ##### Journal reviewer
 
-Annals of Statistics, Journal of the American Statistical Association, Operations Research, Journal of Computational and Graphical Statistics, IEEE Transactions on Information Theory, Transactions on Machine Learning Research, Electronic Journal of Statistics, Statistica Sinica
+Annals of Statistics, Journal of the American Statistical Association, Operations Research, Annals of Applied Statistics, Journal of Computational and Graphical Statistics, IEEE Transactions on Information Theory, Transactions on Machine Learning Research, Electronic Journal of Statistics, Statistica Sinica
 
 ---
 
