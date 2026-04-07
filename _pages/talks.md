@@ -10,7 +10,11 @@ nav_order: 3
 
 ##### Distributionally robust risk evaluation with an isotonic constraint 
 
+- ASA Section on Statistical Learning and Data Science (SLDS) 2026: Inference and Intelligence. New York. Scheduled Nov 2026.
+
 - IMS Annual Meeting 2026. Salzburg, Austria. Scheduled July 2026.
+
+- The New England Statistics Symposium 2026. From Data to Discovery: Statistical Insight in the Age of AI. University of Connecticut, Storrs. Scheduled May 2026.
 
 - 13th International Conference on Multiple Comparison Procedures (MCP–2025). Philadelphia, PA. Aug 2025.
 
