@@ -35,16 +35,17 @@ I am broadly interested in statistical theory and methodology in scenarios where
 
 - **Adaptive inference in observational studies**  
   Valid and adaptive statistical methods for identifying cause-and-effect relationships in complex real-world settings, addressing challenges of heterogeneity, multiplicity, unmeasured confounding, and selection bias ([GSR26](https://arxiv.org/abs/2605.09741)). 
- 
+
+- **Distribution-free inference**  
+  Uncertainty quantification for black-box models, including **reliable** and **interactive** deployment of foundation model outputs with statistical guarantees ([GJR24](https://arxiv.org/abs/2405.10301), [GJNR25](https://arxiv.org/abs/2507.15825)).  
+
+- **Statistical learning with multi-modal data**  
+  Theoretical foundations of modern (self-supervised) representation learning techniques ([GMM25](https://arxiv.org/abs/2505.12473), [GMZ23](https://arxiv.org/abs/2306.03335)) and efficient methods for disentangling shared and modality-specific features ([GMM25](https://www.arxiv.org/abs/2509.21584)). 
 
 - **Selective inference under distribution shift**  
   Robust inferential procedures in the presence of selection bias, distribution shift, missingness, and censoring ([GBM23](https://arxiv.org/abs/2305.10637), [GBM24](https://arxiv.org/abs/2407.06867), [GHRB24](https://arxiv.org/abs/2211.01227)). 
 
-- **Statistical learning with multi-modal data**  
-  Theoretical foundations of modern (self-supervised) representation learning techniques ([GMM25](https://arxiv.org/abs/2505.12473), [GMZ23](https://arxiv.org/abs/2306.03335)) and efficient methods for disentangling shared and modality-specific features ([GMM25](https://www.arxiv.org/abs/2509.21584)). 
   
-- **Distribution-free inference**  
-  Uncertainty quantification for black-box models, including **reliable** and **interactive** deployment of foundation model outputs with statistical guarantees ([GJR24](https://arxiv.org/abs/2405.10301), [GJNR25](https://arxiv.org/abs/2507.15825)).  
  
   
 
