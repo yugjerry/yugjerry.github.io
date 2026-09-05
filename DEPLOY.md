@@ -147,7 +147,7 @@ git clone https://github.com/yugjerry/yugjerry.github.io.git
 | URL | Source |
 |---|---|
 | `/` | `_pages/about.md` |
-| `/publications/` | `_pages/publications.md` (renders `_bibliography/papers.bib`) |
+| `/research/` | `_pages/research.md` (renders `_bibliography/papers.bib`) |
 | `/teaching/` | `_pages/teaching.md` |
 | `/talks/` | `_pages/talks.md` |
 | `/service/` | `_pages/service.md` |
